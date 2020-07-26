@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114541945507",
+    "firebase_url": "https://esmtest-fd93b.firebaseio.com",
+    "project_id": "esmtest-fd93b",
+    "storage_bucket": "esmtest-fd93b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114541945507:android:1f5e0a12d3d8a8c0d31516",
+        "android_client_info": {
+          "package_name": "com.flyingantsstudios.esmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114541945507-h07rcoqji63o42e5d3tc4fhohf2qp993.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiDILQDvxBHCSoVGgWmtQY6_Sm8MsFwuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114541945507-h07rcoqji63o42e5d3tc4fhohf2qp993.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
